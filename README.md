@@ -17,7 +17,7 @@ Este projeto é uma aplicação web interativa que simula um **carrinho de compr
 - JavaScript (ES6)  
 
 ## 📷 Prévia  
-![Pizza Cart](https://hudsonsilv2.github.io/-Copy--Pizza-Cart/)  
+![Pizza Cart](https://s10.aconvert.com/convert/p3r68-cdx67/aqknj-6m4hg.png)  
 
 ---  
 
@@ -40,4 +40,4 @@ This project is an interactive web application that simulates a **pizza shopping
 - JavaScript (ES6)  
 
 ## 📷 Preview  
-![Pizza Cart](https://hudsonsilv2.github.io/-Copy--Pizza-Cart/)  
+![Pizza Cart](https://s10.aconvert.com/convert/p3r68-cdx67/aqknj-6m4hg.png)  
